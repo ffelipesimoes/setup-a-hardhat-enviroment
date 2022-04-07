@@ -8,10 +8,12 @@ Hardhat é um ambiente de desenvolvimento para compilar, implantar, testar e dep
 
 Para criar uma infraestrutura de blockchain usando Hardhat, a primeira coisa a se fazer é instalar o Hardhat usando o comando:
 
-`mkdir hardhat`
-`cd hardhat`
-`npm init --yes`
-`npm install --save-dev hardhat`
+```shell
+mkdir hardhat
+cd hardhat
+npm init --yes
+npm install --save-dev hardhat
+```
 
 Execute o hardhat usando o comando:
 
